@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi I'm Denys 👋
 <!--
 **gsdenys/gsdenys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
+A senior IT professional, with more than 15 years experience, focused on information, integration and content management technologies with several successful projects implemented in different markets. I've been working with product and software development crossing the lines between technical and business, also supporting pre-sales.
+
+With long time of knowledge in high performance and corporate software, I was lucky to work with many different software, like Alfresco, Nuxeo, Bizagi, Activiti, Flowable, Camunda, Zeebe, Kong, Nginx, RabbitMQ among others, as well some programing languages like C++, Java, Python, Javascript, Lua, typescript and now curious about Go and .net Core.
+
+The last 3 year I've been work with digital transformation (internally and externally) through technology improving, applications architecture and software factory management. Supporting the development team, I'm acting as guide leader to software development and application architecture.
