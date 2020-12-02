@@ -20,3 +20,6 @@ A senior IT professional, with more than 15 years experience, focused on informa
 With long time of knowledge in high performance and corporate software, I was lucky to work with many different software, like Alfresco, Nuxeo, Bizagi, Activiti, Flowable, Camunda, Zeebe, Kong, Nginx, RabbitMQ among others, as well some programing languages like C++, Java, Python, Javascript, Lua, typescript and now curious about Go and .net Core.
 
 The last 3 year I've been work with digital transformation (internally and externally) through technology improving, applications architecture and software factory management. Supporting the development team, I'm acting as guide leader to software development and application architecture.
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gsdenys)](https://twitter.com/gsdenys)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gsdenys)](https://www.linkedin.com/in/gsdenys)
