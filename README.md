@@ -21,5 +21,7 @@ With long time of knowledge in high performance and corporate software, I was lu
 
 The last 3 year I've been work with digital transformation (internally and externally) through technology improving, applications architecture and software factory management. Supporting the development team, I'm acting as guide leader to software development and application architecture.
 
+![gsdenys's github stats](https://github-readme-stats.vercel.app/api?username=gsdenys&show_icons=true&theme=dracula)
+
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gsdenys)](https://twitter.com/gsdenys)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gsdenys)](https://www.linkedin.com/in/gsdenys)
